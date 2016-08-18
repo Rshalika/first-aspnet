@@ -2,7 +2,6 @@
   "dependencies": {
     "Microsoft.NETCore.App": {
       "version": "1.0.0",
-       "Microsoft.AspNet.Diagnostics": "1.0.0-*",
       "type": "platform"
     },
     "Microsoft.AspNetCore.Mvc": "1.0.0",
